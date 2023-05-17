@@ -1,7 +1,7 @@
 # PXE-booting-guide
 #### This is a guide to setup pxe booting on virtualbox with optional kickstart setup to automatic OS provisioning<br />
 
-All the commands here are executed on Cent-OS-7. Modify the commands if you are using other flawor <br />
+All the commands here are executed on Cent-OS-7. Modify the commands if you are using other flavour <br />
 ### First step is setup DHCP, tftp and webserver 
 1. Create a virtual machine with 2 network interfaces
     1. NAT/Bridge network for internet
